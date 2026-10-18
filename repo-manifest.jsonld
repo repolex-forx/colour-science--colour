@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/colour-science/colour/commit/248121e33fcae458e62190ac872f3e16ab2044bf",
       "git:hexsha": "248121e33fcae458e62190ac872f3e16ab2044bf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T14:43:02.893101+00:00"
     },
     {
       "@id": "https://repolex.ai/r/colour-science/colour/commit/15ae89923013478bd3cea577f3a7cdc19db2999e",
