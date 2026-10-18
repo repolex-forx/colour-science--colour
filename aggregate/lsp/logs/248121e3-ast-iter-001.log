@@ -1,0 +1,7 @@
+[2026-10-18T14:36:31Z] === AST ITERATION 1 START | repo=colour-science/colour sha=248121e3 ===
+[2026-10-18T14:36:31Z] [iter=1] PHASE START: ast repo=colour-science/colour sha=248121e3
+[2026-10-18T14:36:31Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T14:41:18Z] [iter=1] AST chunks built count=1 triples=3893650
+[2026-10-18T14:41:18Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/248121e33fcae458e62190ac872f3e16ab2044bf/.complete
+[2026-10-18T14:41:18Z] [iter=1] PHASE END: ast elapsed_s=287 elapsed_min=4.8
+[2026-10-18T14:41:18Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
